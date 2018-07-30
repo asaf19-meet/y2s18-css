@@ -1,5 +1,11 @@
 body{background-color:blue;
      color:#F0B67F; }
-a{color:#CAE7B9} 
-.veg{color:green}
-.unveg{color:red}
+a{color:#CAE7B9; font-family: fantasy;} 
+.veg{color:green; font-family: monospace;}
+.unveg{color:red; font-family: cursive;}
+#Name{background-color:black; font-family: sans-serif;}
+p.muggle{color:black}
+.sidebar{background-color:white; position:absolute; top:0px; width:200px; height:100%}
+.title{height:60px; width:100%}
+.container{position: relative; height:100%}
+.content{position:absolute; top:0px; left:200px}
